@@ -1,0 +1,7 @@
+flask
+python-dotenv
+markdown
+flask_sqlalchemy
+requests
+google-generativeai
+Flask-Cors 
